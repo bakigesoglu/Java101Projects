@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 /*
-@author bakigesoglu
+@author alfonso
  */
 class Main {
     public static void main (String[] args) {

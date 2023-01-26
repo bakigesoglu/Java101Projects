@@ -1,6 +1,6 @@
 import java.util.Scanner;
 /*
-@author bakigesoglu
+@author alfonso
  */
 class Taksimetre {
     public static void main(String[] args) {
